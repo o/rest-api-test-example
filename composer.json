@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzle/guzzle": "v3.5.0",
+		"phpunit/phpunit": "3.7.*"
+    }
+}
