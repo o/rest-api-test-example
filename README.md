@@ -1,4 +1,4 @@
-This repository demonstrates using Guzzle for testing REST API's
+This repository demonstrates using Guzzle for testing REST API's with PHPUnit.
 
 First of all you need to install `composer` for installing dependencies.
 
