@@ -1,6 +1,7 @@
 {
     "require": {
-        "guzzle/guzzle": "v3.5.0",
-        "phpunit/phpunit": "3.7.*"
+        "guzzle/guzzle": "3.*",
+        "phpunit/phpunit": "4.*",
+        "guzzlehttp/guzzle": "4.*"
     }
 }
