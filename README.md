@@ -9,3 +9,5 @@ If you have already, install dependecies with,
 To running tests,
 
 	vendor/bin/phpunit --testdox
+
+Special thanks to [Norbert C. Maier](https://github.com/normai) for adding tests for Guzzle 4.

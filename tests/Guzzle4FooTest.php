@@ -2,7 +2,7 @@
 
 use GuzzleHttp\Client;
 
-class FooTest extends PHPUnit_Framework_TestCase
+class Guzzle4FooTest extends PHPUnit_Framework_TestCase
 {
 
     /**
